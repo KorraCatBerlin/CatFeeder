@@ -1,3 +1,5 @@
 # CatFeeder
-Cat Feeder for arduino
-![alt text](https://github.com/Poussinberlin/CatFeeder/raw/master/img/cat.png)
+Cat Feeder for Arduino
+Import this in your Arduino IDE.
+Circuit : https://i.imgur.com/ziKsj8D.png
+
